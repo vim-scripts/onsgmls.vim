@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=983
+
+Lets you validate XML and SGML documents with onsgmls (from the OpenSP suite) or nsgmls (from James Clark's SP suite).  According to Vim's documentation, "The idea is to save the error messages from the compiler in a file and use Vim to jump to the errors one by one.  You can examine each problem and fix it, without having to remember all the error messages." 
+  
